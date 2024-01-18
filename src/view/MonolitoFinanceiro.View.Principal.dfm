@@ -7,13 +7,14 @@ object frmPrincipal: TfrmPrincipal
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
-  Font.Height = -12
+  Font.Height = -16
   Font.Name = 'Segoe UI'
   Font.Style = []
   Menu = menuPrincipal
   Position = poScreenCenter
   WindowState = wsMaximized
-  TextHeight = 15
+  OnCreate = FormCreate
+  TextHeight = 21
   object menuPrincipal: TMainMenu
     Left = 72
     Top = 16
