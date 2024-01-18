@@ -2,8 +2,8 @@ object frmPrincipal: TfrmPrincipal
   Left = 0
   Top = 0
   Caption = 'Sistema Monolito Financeiro'
-  ClientHeight = 623
-  ClientWidth = 928
+  ClientHeight = 708
+  ClientWidth = 1099
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -19,6 +19,10 @@ object frmPrincipal: TfrmPrincipal
     Top = 16
     object menuCadastro: TMenuItem
       Caption = 'Cadastros'
+      object menuCadastroPadrao: TMenuItem
+        Caption = 'Cadastro Padr'#227'o'
+        OnClick = menuCadastroPadraoClick
+      end
     end
     object menuRelatorios: TMenuItem
       Caption = 'Relat'#243'rios'

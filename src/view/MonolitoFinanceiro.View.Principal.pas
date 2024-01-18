@@ -12,6 +12,10 @@ type
     menuCadastro: TMenuItem;
     menuRelatorios: TMenuItem;
     menuAjuda: TMenuItem;
+    menuCadastroPadrao: TMenuItem;
+    procedure menuCadastroPadraoClick(Sender: TObject);
+
+
   private
     { Private declarations }
   public
@@ -24,5 +28,12 @@ var
 implementation
 
 {$R *.dfm}
+
+uses MonolitoFinanceiro.View.CadastroPadrao;
+
+procedure TfrmPrincipal.menuCadastroPadraoClick(Sender: TObject);
+begin
+  frmCadastroPadrao.Show;
+end;
 
 end.
