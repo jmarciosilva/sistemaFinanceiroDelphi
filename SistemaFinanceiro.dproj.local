@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/16 13:53:20.000.239,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/18 10:09:38.176,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/18 10:13:26.982,C:\Users\User\Documents\Embarcadero\Studio\Projects\sistemaFinanceiroDelphi\src\view\MonolitoFinanceiro.View.Principal.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/18 10:13:26.982,C:\Users\User\Documents\Embarcadero\Studio\Projects\sistemaFinanceiroDelphi\src\view\MonolitoFinanceiro.View.Principal.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/18 10:13:54.534,C:\Users\User\Documents\Embarcadero\Studio\Projects\sistemaFinanceiroDelphi\SistemaFinanceiro.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
